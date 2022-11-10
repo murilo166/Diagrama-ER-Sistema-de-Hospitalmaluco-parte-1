@@ -19,7 +19,7 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 ![hospital modelo](https://user-images.githubusercontent.com/110677262/201211465-89c11815-9d1c-467d-be4d-ca1c69b39404.png)
 
 
-## Ferramentas Utilizads
+## Ferramentas Utilizadas
 
 #1.Br modelo
 
